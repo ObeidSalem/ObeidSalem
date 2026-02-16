@@ -132,6 +132,6 @@ I work closely with product and business stakeholders, translating complex requi
 
 
 # 🌐 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obeid-salem-al-mashjari-039035216/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obeid-salem-al-mashjari-039035216/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:o.salem322@gmail.com) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%23009639.svg?logo=whatsapp&logoColor=white)](https://wa.me/966599102429)
